@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.5",
-  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.0.5/tabsaku-1.0.5.apk",
-  "sha256": "eef050a2cfaa2559457c3966d2f0ad62c8ae1088b50e8bdb84313da6db5cede7",
-  "notes": "Tabsaku 1.0.5\n\n- Uang masuk, keluar, dan pindah dana kini mudah dibedakan: masuk hijau dengan tanda +, keluar berwarna tanah liat dalam kurung, dan pindah dana abu-abu dengan ikon ⇄ karena tidak dihitung.\n- Kebun lebih rapi: tanaman, target, skor, dan daun dikelompokkan dalam kartu. Rincian skor dan penjelasan kebun bisa dibuka saat perlu.\n- \"Rak tanamanmu\" kini bernama \"Tanaman bulan lalu\" dan baru muncul setelah ada bulan yang selesai.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.0.4; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
+  "versionCode": 16,
+  "versionName": "1.0.6",
+  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.0.6/tabsaku-1.0.6.apk",
+  "sha256": "76a55fcda62fca2aadce6727551e278fdcbf61ecff66aa7ea1376c8bf9f47fce",
+  "notes": "Tabsaku 1.0.6\n\n- Pola pengeluaran: tandai pengeluaran sebagai Sesuai rencana, Tambahan, atau Lewat rencana, dari detail transaksi atau Catat cepat.\n- Buku bisa disaring per rekening, kategori (termasuk \"Tanpa kategori\"), dan pola lewat tiga tombol filter.\n- Grafik \"Keluar per hari\" di Arus → Keluar menunjukkan pengeluaran tiap hari per kategori. Ketuk batangnya untuk melihat rincian hari itu; bisa juga dipakai dengan TalkBack.\n- Memilih kategori lebih cepat: lima kategori yang paling sering kamu pakai tampil sebagai ikon, sisanya ada di \"Semua kategori\".\n- Menambah bank di Pengaturan → Bank yang dibaca kini menanyakan saldo awalnya dan membaca email 90 hari terakhir dari bank itu. Saat mencopot centang bank, kamu bisa memilih menghapus rekeningnya atau menyimpan riwayatnya.\n- Ekspor CSV kini menyertakan kolom Pola.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.0.5; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
 }
