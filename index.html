@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tabsaku</title>
+<meta name="description" content="Catatan keuangan yang membaca email bank-mu, dan semuanya tetap di HP-mu.">
+<link rel="icon" href="icon-512.png">
+<style>
+  :root {
+    --bg: #F7F5F0; --surface: #EFEAE0; --text: #161513; --muted: #5F5B54; --growth: #2F7A4F; --on-growth: #FFFFFF;
+    color-scheme: light dark;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #121412; --surface: #1C1F1C; --text: #EEF2EC; --muted: #9AA39A; --growth: #7BE3A0; --on-growth: #0F1A12; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 42rem; margin: 0 auto; padding-inline: 16px; padding-block: 48px 64px; display: grid; gap: 28px; }
+  .hero { display: grid; gap: 14px; justify-items: start; }
+  .hero img { width: 96px; height: 96px; border-radius: 24px; }
+  h1 { font-size: clamp(34px, 8vw, 48px); line-height: 1.05; margin: 0; }
+  .tagline { font-size: 19px; color: var(--muted); margin: 0; max-width: 34ch; }
+  .download { display: inline-block; background: var(--growth); color: var(--on-growth); font-weight: 700; text-decoration: none; padding: 14px 22px; border-radius: 14px; }
+  .download:focus-visible { outline: 2px solid var(--text); outline-offset: 3px; }
+  section { background: var(--surface); border-radius: 16px; padding: 20px; }
+  h2 { font-size: 18px; margin: 0 0 8px; }
+  ol { margin: 0; padding-left: 1.3em; }
+  li + li { margin-top: 6px; }
+  p { margin: 0; max-width: 65ch; }
+  a { color: var(--growth); }
+  .muted { color: var(--muted); font-size: 14px; }
+</style>
+</head>
+<body>
+<main>
+  <div class="hero">
+    <img src="icon-512.png" alt="Ikon Tabsaku: tunas yang tumbuh dari saku">
+    <h1>Tabsaku</h1>
+    <p class="tagline">Catatan keuangan yang membaca email bank-mu, dan semuanya tetap di HP-mu.</p>
+    <a class="download" href="https://github.com/byciikel/tabsaku-releases/releases/latest">Unduh APK terbaru</a>
+  </div>
+
+  <section>
+    <h2>Cara memasang</h2>
+    <ol>
+      <li>Buka tombol di atas dari HP Android (8.0 atau lebih baru), lalu unduh file <code>tabsaku-….apk</code>.</li>
+      <li>Kalau HP bertanya, izinkan browser-mu memasang aplikasi dari sumber ini.</li>
+      <li>Buka file APK-nya dan pilih Pasang.</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>Periksa file-nya</h2>
+    <p>Setiap rilis mencantumkan SHA-256 file APK-nya. Cocokkan sebelum memasang kalau kamu ingin yakin file-nya utuh.</p>
+  </section>
+
+  <p><a href="privacy.html">Kebijakan privasi</a> · <span class="muted">Semua data tetap di HP ini.</span></p>
+</main>
+</body>
+</html>

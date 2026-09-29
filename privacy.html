@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kebijakan privasi · Tabsaku</title>
+<meta name="description" content="Semua data Tabsaku tetap di HP-mu. Apa yang dibaca aplikasi, apa yang disimpan, dan kapan data keluar dari HP.">
+<link rel="icon" href="icon-512.png">
+<style>
+  :root {
+    --bg: #F7F5F0; --surface: #EFEAE0; --line: #DAD5CB; --text: #161513; --muted: #5F5B54; --growth: #2F7A4F;
+    color-scheme: light dark;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #121412; --surface: #1C1F1C; --line: #333833; --text: #EEF2EC; --muted: #9AA39A; --growth: #7BE3A0; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 42rem; margin: 0 auto; padding-inline: 16px; padding-block: 40px 64px; }
+  header { display: flex; gap: 14px; align-items: center; margin-bottom: 8px; }
+  header img { width: 48px; height: 48px; border-radius: 12px; }
+  header a { color: var(--text); text-decoration: none; font-weight: 700; font-size: 18px; }
+  h1 { font-size: clamp(28px, 6vw, 36px); line-height: 1.15; margin: 24px 0 8px; }
+  h2 { font-size: 19px; margin: 32px 0 6px; }
+  p, li { max-width: 65ch; }
+  ul { padding-left: 1.2em; }
+  .lead { font-size: 18px; color: var(--muted); }
+  .lead strong { color: var(--growth); }
+  .since { color: var(--muted); font-size: 14px; }
+  hr { border: 0; border-top: 1px solid var(--line); margin: 48px 0; }
+  a { color: var(--growth); }
+  code { background: var(--surface); padding: 1px 5px; border-radius: 4px; font-size: 14px; }
+</style>
+</head>
+<body>
+<main>
+  <header><img src="icon-512.png" alt=""><a href="./">Tabsaku</a></header>
+
+  <h1>Kebijakan privasi</h1>
+  <p class="lead"><strong>Semua data tetap di HP ini.</strong> Tabsaku tidak punya server dan tidak punya akun. Pembuatnya tidak bisa melihat datamu.</p>
+  <p class="since">Berlaku sejak Tabsaku 1.0.0 · 29 September 2026</p>
+
+  <h2>Yang disimpan di HP</h2>
+  <p>Transaksi, saldo, kebun, dan pengaturanmu disimpan di database yang dienkripsi dengan SQLCipher. Kuncinya dilindungi Android Keystore.</p>
+
+  <h2>Email</h2>
+  <p>Tabsaku membuka kotak suratmu hanya untuk dibaca, lewat IMAP, dan hanya ke server email yang kamu setujui saat mulai (terlihat di Pengaturan → Koneksi jaringan). Yang dibaca hanya email dari bank yang kamu pilih. Tabsaku menyimpan transaksinya lalu membuang isi emailnya. Sandi aplikasi email disimpan terenkripsi di HP.</p>
+
+  <h2>Notifikasi aplikasi bank</h2>
+  <p>Kalau kamu memberi akses notifikasi, Tabsaku membaca notifikasi dari aplikasi bank yang kamu pilih, di HP ini saja. Tabsaku tidak pernah membaca SMS.</p>
+
+  <h2>Tidak ada koneksi lain</h2>
+  <p>Tidak ada analitik, iklan, laporan crash, atau SDK pihak ketiga yang mengirim data. Semua koneksi lain diblokir di dalam aplikasi.</p>
+
+  <h2>Kapan data keluar dari HP</h2>
+  <p>Hanya saat kamu sendiri yang memulainya: Ekspor CSV (Pengaturan → Ekspor CSV), lewat menu bagikan ke aplikasi yang kamu pilih.</p>
+
+  <h2>Tidak ada cadangan</h2>
+  <p>Data Tabsaku dikecualikan dari cadangan Google dan dari pindah data antar-HP. Kalau HP hilang atau direset, datanya ikut hilang.</p>
+
+  <h2>Hapus semuanya</h2>
+  <p>Pengaturan → Hapus semua data (ketik HAPUS) menghapus database, kuncinya, dan sandi yang tersimpan. Mencopot aplikasi juga menghapus semuanya.</p>
+
+  <h2>Kunci aplikasi</h2>
+  <p>Sidik jari atau wajah diperiksa oleh Android. Tabsaku hanya menerima jawaban ya atau tidak.</p>
+
+  <h2>Kontak</h2>
+  <p>Tulis di halaman <a href="https://github.com/byciikel/tabsaku-releases/issues">Issues</a> repositori rilis Tabsaku.</p>
+
+  <hr>
+
+  <h1 lang="en">Privacy policy</h1>
+  <div lang="en">
+  <p class="lead"><strong>All data stays on this phone.</strong> Tabsaku has no server and no account. Its developer can't see your data.</p>
+  <p class="since">In effect since Tabsaku 1.0.0 · 29 September 2026</p>
+
+  <h2>What's stored on the phone</h2>
+  <p>Your transactions, balances, garden and settings live in a database encrypted with SQLCipher. Its key is protected by Android Keystore.</p>
+
+  <h2>Email</h2>
+  <p>Tabsaku opens your mailbox read-only over IMAP, and only at the mail server you approved during setup (shown in Pengaturan → Koneksi jaringan). It reads only mail from the banks you picked. It keeps the transaction and discards the email text. Your mail app password is stored encrypted on the phone.</p>
+
+  <h2>Bank app notifications</h2>
+  <p>If you grant notification access, Tabsaku reads notifications from the bank apps you picked, on this phone only. It never reads SMS.</p>
+
+  <h2>No other connections</h2>
+  <p>No analytics, ads, crash reporting or third-party SDKs that send data. Every other connection is blocked inside the app.</p>
+
+  <h2>When data leaves the phone</h2>
+  <p>Only when you start it: CSV export (Pengaturan → Ekspor CSV), through the share menu, to the app you choose.</p>
+
+  <h2>No backup</h2>
+  <p>Tabsaku's data is excluded from Google backup and from phone-to-phone transfer. If the phone is lost or reset, the data is gone.</p>
+
+  <h2>Delete everything</h2>
+  <p>Pengaturan → Hapus semua data (type HAPUS) deletes the database, its key and the saved password. Uninstalling the app does the same.</p>
+
+  <h2>App lock</h2>
+  <p>Fingerprint or face checks are done by Android. Tabsaku only receives yes or no.</p>
+
+  <h2>Contact</h2>
+  <p>Write on the <a href="https://github.com/byciikel/tabsaku-releases/issues">Issues</a> page of the Tabsaku releases repository.</p>
+  </div>
+</main>
+</body>
+</html>
