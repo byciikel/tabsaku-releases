@@ -1,0 +1,7 @@
+{
+  "versionCode": 13,
+  "versionName": "1.0.3",
+  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.0.3/tabsaku-1.0.3.apk",
+  "sha256": "497c64f55b693c9be4d59da6529437b872eb4a52649e659d1aba8d72d60d5a42",
+  "notes": "Tabsaku 1.0.3\n\n- Pembaruan kini bisa langsung dari aplikasi: Pengaturan → Periksa pembaruan. Tabsaku mengunduh versi baru, mencocokkan SHA-256 dan tanda tangannya, lalu Android meminta persetujuanmu untuk memasang. Datamu tetap ada.\n- Tabsaku terhubung ke GitHub hanya saat kamu mengetuk Periksa pembaruan. Kebijakan privasi dan Pengaturan → Koneksi jaringan sudah mencantumkannya.\n- Menarik lembar mana pun ke bawah kini menutupnya, seperti Catat cepat.\n\nPasang langsung di atas 1.0.2, datamu tetap ada. Ini terakhir kalinya kamu perlu memasang APK secara manual. Cek SHA-256 file APK di bawah sebelum memasang.\n"
+}
