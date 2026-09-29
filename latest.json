@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "1.0.4",
-  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.0.4/tabsaku-1.0.4.apk",
-  "sha256": "34e4803a006124ac9ddd2553a9e58406710067b506fafecc9ef44d39785e0508",
-  "notes": "Tabsaku 1.0.4\n\n- Menarik Catat cepat ke bawah perlahan untuk menutupnya kini mulus: tombol × tetap di tepi panel, tidak lagi berkedip.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.0.3; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
+  "versionCode": 15,
+  "versionName": "1.0.5",
+  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.0.5/tabsaku-1.0.5.apk",
+  "sha256": "eef050a2cfaa2559457c3966d2f0ad62c8ae1088b50e8bdb84313da6db5cede7",
+  "notes": "Tabsaku 1.0.5\n\n- Uang masuk, keluar, dan pindah dana kini mudah dibedakan: masuk hijau dengan tanda +, keluar berwarna tanah liat dalam kurung, dan pindah dana abu-abu dengan ikon ⇄ karena tidak dihitung.\n- Kebun lebih rapi: tanaman, target, skor, dan daun dikelompokkan dalam kartu. Rincian skor dan penjelasan kebun bisa dibuka saat perlu.\n- \"Rak tanamanmu\" kini bernama \"Tanaman bulan lalu\" dan baru muncul setelah ada bulan yang selesai.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.0.4; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
 }
