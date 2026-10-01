@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.0.6",
-  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.0.6/tabsaku-1.0.6.apk",
-  "sha256": "76a55fcda62fca2aadce6727551e278fdcbf61ecff66aa7ea1376c8bf9f47fce",
-  "notes": "Tabsaku 1.0.6\n\n- Pola pengeluaran: tandai pengeluaran sebagai Sesuai rencana, Tambahan, atau Lewat rencana, dari detail transaksi atau Catat cepat.\n- Buku bisa disaring per rekening, kategori (termasuk \"Tanpa kategori\"), dan pola lewat tiga tombol filter.\n- Grafik \"Keluar per hari\" di Arus → Keluar menunjukkan pengeluaran tiap hari per kategori. Ketuk batangnya untuk melihat rincian hari itu; bisa juga dipakai dengan TalkBack.\n- Memilih kategori lebih cepat: lima kategori yang paling sering kamu pakai tampil sebagai ikon, sisanya ada di \"Semua kategori\".\n- Menambah bank di Pengaturan → Bank yang dibaca kini menanyakan saldo awalnya dan membaca email 90 hari terakhir dari bank itu. Saat mencopot centang bank, kamu bisa memilih menghapus rekeningnya atau menyimpan riwayatnya.\n- Ekspor CSV kini menyertakan kolom Pola.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.0.5; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
+  "versionCode": 17,
+  "versionName": "1.0.7",
+  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.0.7/tabsaku-1.0.7.apk",
+  "sha256": "59b4bd6c7e01247af8f687ba8584bc60294dedcc7a6251ec3ae805b03ff14c58",
+  "notes": "Tabsaku 1.0.7\n\n- Notifikasi bank yang masuk saat Tabsaku tertutup kini tetap tercatat: saat Tabsaku aktif lagi, notifikasi bank yang masih ada di panel notifikasi dibaca ulang.\n- HP Xiaomi, Redmi, dan POCO: Pengaturan → Mulai otomatis membuka layar izin MIUI. Nyalakan untuk Tabsaku, lalu atur Penghemat baterai ke Tanpa batasan, supaya notifikasi tetap terbaca.\n- \"Cek email sekarang\" kini selesai dengan benar: tulisan \"sedang cek email\" hilang setelah selesai, lalu waktu cek terakhir diperbarui (atau tertulis gagal bila tidak ada internet).\n- Beranda, Buku, dan Rekening langsung diperbarui setelah setiap cek email, termasuk yang otomatis sekali sehari.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.0.6; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
 }
