@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "1.1.1",
-  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.1.1/tabsaku-1.1.1.apk",
-  "sha256": "beca7b6c794dd4e07a65e099b9fa273ce1fa37fa4dda987ffa6dd14f55bc0626",
-  "notes": "Tabsaku 1.1.1\n\n- Menambah kategori baru kini lebih rapi: hanya tombol kembali dan kolom nama. Ketik namanya, lalu tekan tombol selesai di keyboard untuk menyimpan.\n- Ketuk kategori yang sedang dipilih sekali lagi untuk melepas pilihannya — berlaku di daftar singkat, daftar lengkap, dan filter Kategori di Buku.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.1.0; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
+  "versionCode": 22,
+  "versionName": "1.1.2",
+  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.1.2/tabsaku-1.1.2.apk",
+  "sha256": "4fb36c77facaf58e094c03e321df5f6a23c35d9ae865e5e7ebc6e5bd83b6ac94",
+  "notes": "Tabsaku 1.1.2\n\n- Tombol kembali kini sebaris dengan judul layar, bukan di atasnya — berlaku di semua layar yang punya tombol kembali.\n- Menambah kategori: tombol kembali dan judul \"Kategori baru\" sebaris di atas, kolom nama di bawahnya, lalu tombol Tambah. Tombol selesai di keyboard juga menyimpan.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.1.1; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
 }
