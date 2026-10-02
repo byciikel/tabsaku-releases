@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.0.9",
-  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.0.9/tabsaku-1.0.9.apk",
-  "sha256": "86010cd6dcc3c70d855ea6c5358b79ce99b4e37085714bbd5aecb495d231aa34",
-  "notes": "Tabsaku 1.0.9\n\n- Notifikasi uang masuk dari Jago (\"You've received Rp… from …\") kini tercatat otomatis sebagai pemasukan. Sebelumnya notifikasi ini masuk ke antrean Belum terbaca.\n- Notifikasi yang sudah terlanjur masuk ke Belum terbaca akan dikenali dan dicatat saat sinkronisasi berikutnya — tanpa perlu tindakan apa pun.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.0.8; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
+  "versionCode": 20,
+  "versionName": "1.1.0",
+  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.1.0/tabsaku-1.1.0.apk",
+  "sha256": "a73310a61bbeb04ae51f83471322da1b81a1fe40c42f68e0941611d40f985745",
+  "notes": "Tabsaku 1.1.0\n\n- Kategori sendiri: di daftar kategori, ketuk \"Lainnya\" untuk menambah kategori baru. Ikonnya dipilih otomatis dari namanya, dan kategori itu tersimpan untuk transaksi berikutnya.\n- Pengaturan dirapikan menjadi kartu per topik (Keamanan, Email & sinkronisasi, Notifikasi, Tampilan, Data, Tentang). Tiap topik punya satu baris penjelasan, dan nilainya terlihat langsung — misalnya \"2 dari 8 bank\" atau \"Sidik jari\".\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.0.9; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
 }
