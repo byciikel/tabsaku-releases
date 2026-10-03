@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "1.1.3",
-  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.1.3/tabsaku-1.1.3.apk",
-  "sha256": "3b8e96bed9fdf92af5df02b1472832ff2c9e9bc77753789efb2127a9830c38b9",
-  "notes": "Tabsaku 1.1.3\n\n- Layar PIN kini hidup: tombol yang ditekan menyala hijau dan angkanya membesar sebentar, jadi jelas angka mana yang barusan kamu tekan.\n- Titik PIN memantul saat terisi, dan bergetar sebentar kalau PIN-nya salah.\n- Tombol hapus memakai ikon baru yang seragam dengan ikon lain di aplikasi, bukan lagi lambang ⌫.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.1.2; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
+  "versionCode": 24,
+  "versionName": "1.2.0",
+  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.2.0/tabsaku-1.2.0.apk",
+  "sha256": "bb228cabc2dff1e00b3ddf0cdd6e1af2e168e36ffdabbd678fed6be92ce2b59a",
+  "notes": "Tabsaku 1.2.0\n\n- Nama tujuan sebuah transfer kini bisa diingat. Setelah menandai pengeluaran sebagai \"Pindah ke rekeningmu di Tabsaku\", centang \"Selalu anggap <nama> transfer ke rekening ini\", dan transaksi berikutnya ke nama itu otomatis tercatat sebagai transfer ke rekening yang sama — tidak lagi dihitung sebagai uang keluar.\n- Keputusan terbaru selalu menang. Kalau nama itu kemudian kamu tandai \"Pindah dana\", aturan transfernya tidak dipakai lagi; menekan \"Bukan transfer\" juga menghapus ingatannya.\n- Perbaikan kecil pada penyimpanan data (skema basis data naik satu versi).\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.1.3; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
 }
