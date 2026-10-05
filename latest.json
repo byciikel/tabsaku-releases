@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "1.2.0",
-  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.2.0/tabsaku-1.2.0.apk",
-  "sha256": "bb228cabc2dff1e00b3ddf0cdd6e1af2e168e36ffdabbd678fed6be92ce2b59a",
-  "notes": "Tabsaku 1.2.0\n\n- Nama tujuan sebuah transfer kini bisa diingat. Setelah menandai pengeluaran sebagai \"Pindah ke rekeningmu di Tabsaku\", centang \"Selalu anggap <nama> transfer ke rekening ini\", dan transaksi berikutnya ke nama itu otomatis tercatat sebagai transfer ke rekening yang sama — tidak lagi dihitung sebagai uang keluar.\n- Keputusan terbaru selalu menang. Kalau nama itu kemudian kamu tandai \"Pindah dana\", aturan transfernya tidak dipakai lagi; menekan \"Bukan transfer\" juga menghapus ingatannya.\n- Perbaikan kecil pada penyimpanan data (skema basis data naik satu versi).\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.1.3; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
+  "versionCode": 25,
+  "versionName": "1.3.0",
+  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.3.0/tabsaku-1.3.0.apk",
+  "sha256": "d71657e74823abe0408923f32adcd3f1fc808a4dda0a1fde51b1c57a93de658e",
+  "notes": "Tabsaku 1.3.0\n\n- Superbank kini didukung. Notifikasi pembayaran (\"Berhasil bayar ke …\"), uang masuk (\"Asik, ada uang masuk dari …\"), dan transfer keluar (\"Transfer ke … berhasil\") tercatat otomatis, begitu juga email bukti transfernya. Tambahkan Superbank dari Pengaturan → Bank yang dibaca.\n- Notifikasi uang masuk dari BRImo (\"Dana Rp… masuk ke rekening …\") kini tercatat otomatis sebagai pemasukan.\n- Notifikasi Jago \"… has sent Rp… to you\" kini juga dikenali sebagai uang masuk. Sebelumnya notifikasi ini masuk ke antrean Belum terbaca.\n- Memindahkan uang antar rekeningmu sendiri (misalnya Superbank → Jago, atau ke BRI) kini tercatat sebagai Pindah dana, bukan pengeluaran.\n- Email bank yang bagian teksnya kosong (seperti email Superbank) kini tetap terbaca, tidak lagi masuk ke Belum terbaca.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.2.0; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
 }
