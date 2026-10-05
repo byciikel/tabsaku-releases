@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "1.3.0",
-  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.3.0/tabsaku-1.3.0.apk",
-  "sha256": "d71657e74823abe0408923f32adcd3f1fc808a4dda0a1fde51b1c57a93de658e",
-  "notes": "Tabsaku 1.3.0\n\n- Superbank kini didukung. Notifikasi pembayaran (\"Berhasil bayar ke …\"), uang masuk (\"Asik, ada uang masuk dari …\"), dan transfer keluar (\"Transfer ke … berhasil\") tercatat otomatis, begitu juga email bukti transfernya. Tambahkan Superbank dari Pengaturan → Bank yang dibaca.\n- Notifikasi uang masuk dari BRImo (\"Dana Rp… masuk ke rekening …\") kini tercatat otomatis sebagai pemasukan.\n- Notifikasi Jago \"… has sent Rp… to you\" kini juga dikenali sebagai uang masuk. Sebelumnya notifikasi ini masuk ke antrean Belum terbaca.\n- Memindahkan uang antar rekeningmu sendiri (misalnya Superbank → Jago, atau ke BRI) kini tercatat sebagai Pindah dana, bukan pengeluaran.\n- Email bank yang bagian teksnya kosong (seperti email Superbank) kini tetap terbaca, tidak lagi masuk ke Belum terbaca.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.2.0; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
+  "versionCode": 26,
+  "versionName": "1.3.1",
+  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.3.1/tabsaku-1.3.1.apk",
+  "sha256": "afae31b17949289a1b8e827581a4e2ccaba7d8b1d1e3f4fd009932a22355c98d",
+  "notes": "Tabsaku 1.3.1\n\n- Email \"Pembelian QRIS Berhasil\" dari BRI kini tercatat otomatis sebagai pengeluaran, lengkap dengan nama merchant dan biaya adminnya. Sebelumnya email ini masuk ke antrean Belum terbaca.\n- Email promosi BRI yang tidak berisi transaksi kini otomatis dilewati.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.3.0; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
 }
