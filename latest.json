@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "1.3.3",
-  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.3.3/tabsaku-1.3.3.apk",
-  "sha256": "0ad8e542a5925c9adc3e39225254f7326319fc9d122d2432a6c8f72c809567b1",
-  "notes": "Tabsaku 1.3.3\n\n- Grafik di Buku tidak lagi hilang setelah memilih Masuk. Sebelumnya, jika belum ada pemasukan tercatat dalam enam bulan terakhir, seluruh grafik beserta tombol Keluar/Masuk ikut hilang sampai aplikasi dibuka ulang. Kini grafiknya tetap tampil dengan keterangan \"Belum ada masuk\", dan kamu bisa kembali ke Keluar kapan saja.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.3.2; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
+  "versionCode": 29,
+  "versionName": "1.4.0",
+  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.4.0/tabsaku-1.4.0.apk",
+  "sha256": "57c5210bda34768f534bac85ba44a99561f5e6a735b014df682d639f56731974",
+  "notes": "Tabsaku 1.4.0\n\n- Patungan. Kalau kamu talangin dulu tagihan bersama, buka transaksinya dan nyalakan \"Patungan, kamu talangin dulu\". Atur berapa orang (termasuk kamu), bagi rata atau atur bagianmu sendiri, dan beri nama teman kalau mau. Hanya bagianmu yang dihitung Keluar; sisanya tercatat di Belum kembali.\n- Uang dari teman bisa dihubungkan ke patungannya lewat \"Bayaran patungan\", jadi tidak dihitung Masuk. Tabsaku menyarankan patungan yang cocok dari nama pengirim atau jumlahnya; kamu tinggal tekan \"Ya, hubungkan\".\n- Kalau teman mengirim lebih dari bagiannya, Tabsaku menanyakan sisanya mau ke mana: untuk bayarin teman lain di patungan yang sama, ke patungan lain, atau dicatat jadi Masuk.\n- Halaman Detail patungan menunjukkan siapa yang sudah bayar dan berapa yang belum kembali. Ada \"Anggap traktiran sisanya\" kalau kamu ikhlaskan sisanya, dan \"Batalkan patungan\".\n- Beranda punya kotak Belum kembali selama ada patungan berjalan, dan Rekening punya bagian Patungan berjalan.\n- Pengaturan punya pilihan \"Sembunyikan pemasukan di daftar\": baris Masuk tidak muncul di daftar transaksi, tapi total Masuk tetap dihitung.\n- Ekspor CSV punya kolom baru \"Dihitung\" di paling kanan, jadi spreadsheet lamamu tetap jalan.\n- Penyimpanan data naik satu versi untuk patungan.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.3.3; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
 }
