@@ -1,43 +1,43 @@
 # Tabsaku
 
-Tabsaku is a free, privacy-first Android money book. It reads the transaction emails and app notifications your banks and e-wallets already send, records your income, spending and transfers by itself, and keeps a balance for each account. Everything stays on your phone: no account to sign up for, no server, no cloud AI. The only place Tabsaku connects to is your own mail server.
+Tabsaku adalah buku keuangan Android yang gratis dan menjaga privasimu. Tabsaku membaca email dan notifikasi transaksi yang sudah dikirim bank dan dompet digitalmu, mencatat pemasukan, pengeluaran, dan pindah dana sendiri, lalu menyimpan saldo tiap rekening. Semua data tetap di HP-mu: tanpa daftar akun, tanpa server, tanpa AI di cloud. Satu-satunya tempat yang dihubungi Tabsaku adalah server email milikmu sendiri.
 
-This repository hosts the signed APK releases and the [privacy policy](https://byciikel.github.io/tabsaku-releases/privacy.html).
+Repositori ini berisi rilis APK yang sudah ditandatangani dan [kebijakan privasi](https://byciikel.github.io/tabsaku-releases/privacy.html).
 
-## Features
+## Fitur
 
-- Records transactions automatically from bank emails and app notifications
-- Balance per account, with balance recalibration
-- Transfers between your own accounts are recorded as Pindah dana, not as spending
-- Buku: spending and income by category, monthly comparison over six months, your own categories
-- Belum terbaca: messages Tabsaku can't read yet wait for you to enter them, nothing is lost
-- Kebun saku: a pocket garden that grows with your weekly habits, never with amounts
-- App lock (fingerprint or PIN), home-screen widget, CSV export, delete all data
+- Mencatat transaksi otomatis dari email bank dan notifikasi aplikasi
+- Saldo per rekening, lengkap dengan kalibrasi saldo
+- Transfer antar rekeningmu sendiri tercatat sebagai Pindah dana, bukan pengeluaran
+- Buku: pengeluaran dan pemasukan per kategori, perbandingan bulanan selama enam bulan, dan kategori buatanmu sendiri
+- Belum terbaca: pesan yang belum bisa dibaca Tabsaku menunggu kamu catat, tidak ada yang hilang
+- Kebun saku: kebun kecil yang tumbuh dari kebiasaan mingguanmu, bukan dari jumlah uang
+- Kunci aplikasi (sidik jari atau PIN), widget beranda, ekspor CSV, hapus semua data
 
-## Supported banks and e-wallets
+## Bank dan dompet digital yang didukung
 
-| Bank / e-wallet | Email | App notification |
+| Bank / dompet digital | Email | Notifikasi aplikasi |
 | --- | --- | --- |
 | BCA | ✓ | ✓ (myBCA) |
 | Bank Jago | ✓ | ✓ |
 | blu by BCA Digital | ✓ | ✓ |
 | BSI (BYOND) | ✓ | |
-| BRI | ✓ (QRIS) | ✓ (BRImo, money in) |
+| BRI | ✓ (QRIS) | ✓ (BRImo, uang masuk) |
 | Superbank | ✓ | ✓ |
 | OVO | | ✓ |
 
-Bank Mandiri and BNI can already be added, but their messages are not read automatically yet; they wait in Belum terbaca for you to enter them. Coming soon: CIMB Niaga, Permata, SeaBank, GoPay.
+Bank Mandiri dan BNI sudah bisa ditambahkan, tetapi pesannya belum terbaca otomatis; pesan itu menunggu di Belum terbaca untuk kamu catat. Segera hadir: CIMB Niaga, Permata, SeaBank, GoPay.
 
-Missing your bank, or a message that isn't recognised? Open an issue in this repository (please remove account numbers and names first).
+Bankmu belum ada, atau ada pesan yang tidak dikenali? Buka issue di repositori ini (hapus dulu nomor rekening dan nama di dalamnya).
 
-## Install
+## Cara memasang
 
-Requires Android 8.0 or newer.
+Membutuhkan Android 8.0 atau yang lebih baru.
 
-1. Download `tabsaku-<version>.apk` from the [latest release](https://github.com/byciikel/tabsaku-releases/releases/latest).
-2. Check its SHA-256 against the `.sha256` file attached to the same release.
-3. Open the APK and allow installing from your browser or file manager when Android asks.
+1. Unduh `tabsaku-<versi>.apk` dari [rilis terbaru](https://github.com/byciikel/tabsaku-releases/releases/latest).
+2. Cocokkan SHA-256 file APK dengan file `.sha256` di rilis yang sama.
+3. Buka file APK, lalu izinkan pemasangan dari browser atau pengelola file saat Android memintanya.
 
-## Update
+## Cara memperbarui
 
-In the app, go to Pengaturan → Periksa pembaruan, or install the newer APK directly over the old one. Your data stays.
+Di aplikasi, buka Pengaturan → Periksa pembaruan, atau pasang APK yang lebih baru langsung di atas versi lama. Datamu tetap ada.
