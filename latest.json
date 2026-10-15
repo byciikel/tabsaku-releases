@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "1.5.0",
-  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.5.0/tabsaku-1.5.0.apk",
-  "sha256": "d57856eaddf5885ee4f96773ad244b3c50d61f1110843fa3844a64dffb66ee5f",
-  "notes": "Tabsaku 1.5.0\n\n- Ubah patungan. Di halaman Detail patungan ada tombol \"Ubah patungan\" untuk mengganti jumlah orang, memilih Bagi rata atau Atur bagianmu lagi, memberi atau mengganti nama teman, dan menandai teman yang \"Sudah bayar tunai\". Bagian tiap teman dihitung ulang otomatis.\n- Teman yang sudah bayar tidak bisa dihapus, dan bagian per teman tidak bisa jadi lebih kecil dari yang sudah mereka bayar. Tabsaku menjelaskan alasannya sebelum kamu menyimpan.\n- Teman yang ditandai \"Sudah bayar tunai\" tidak lagi dihitung Belum kembali. Uang tunainya tidak dicatat sebagai Masuk; catat di Dompet tunai kalau kamu ingin saldonya ikut.\n- Kalau patungan sudah \"Anggap traktiran\", perubahan tetap bisa disimpan dan bagian traktirannya ikut disesuaikan.\n- Pilihan \"Sembunyikan pemasukan\" dihapus. Kotak Masuk, pilihan Masuk di grafik Buku, kategori Masuk di filter, dan baris Masuk tampil lagi seperti biasa.\n- Penyimpanan data naik satu versi untuk tanda \"Sudah bayar tunai\".\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.4.2; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
+  "versionCode": 33,
+  "versionName": "1.6.0",
+  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.6.0/tabsaku-1.6.0.apk",
+  "sha256": "b109c8081e062ffdfbe75e936e3ad0e30e815ddf2531aba8b9124428519be57e",
+  "notes": "Tabsaku 1.6.0\n\n- Tanaman baru di Kebun. Kartu Skor Tab sekarang menampilkan sirih gading dalam pot terakota yang tergantung dengan rantai dari kait di langit-langit.\n- Tanamannya tumbuh mengikuti Skor Tab: dari benih di tanah, lalu batang yang naik, melengkung melewati bibir pot, dan menjuntai di bawah pot saat Berbunga. Setiap daun punya tangkainya sendiri di batang. Daun baru keluar kecil, masih tergulung dan hijau muda, lalu membuka.\n- Tanaman bergoyang tertiup angin: potnya berayun di rantai, batang yang menjuntai bergerak lebih banyak, dan tiap daun bergerak sendiri. Kalau animasi dimatikan di pengaturan HP, tanaman tampil diam.\n- Tanaman bulan lalu di rak memakai tanaman yang sama, tampil diam.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.5.0; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
 }
