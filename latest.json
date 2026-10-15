@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "1.6.1",
-  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.6.1/tabsaku-1.6.1.apk",
-  "sha256": "fe957d30b4f12c8981093b157c46e8c108aad2b0798bacae2a61ee58a974525b",
-  "notes": "Tabsaku 1.6.1\n\n- Sirih gading kini tampil di semua layar, bukan hanya di Kebun.\n- Beranda: tanaman tampil sesuai Skor Tab dan bergoyang tertiup angin. Saat daun baru tumbuh, daun terbarunya muncul di depan matamu.\n- Saldo cocok: tanaman tumbuh dari Skor Tab lama ke yang baru, bersamaan dengan angkanya.\n- Bab selesai: tanaman bulan itu tumbuh dari benih sampai tahap akhirnya sebelum disimpan di kebun.\n- Selamat datang: benih bertunas menjadi tanaman muda.\n- Daun-daun kecil yang beterbangan saat kebiasaan selesai atau naik tahap kini berwarna hijau yang sama dengan tanamannya.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.6.0; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
+  "versionCode": 35,
+  "versionName": "1.7.0",
+  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.7.0/tabsaku-1.7.0.apk",
+  "sha256": "5d68519adbc1122075d25f784fbb4fb7989dcaaa8e626846e19d345582add7de",
+  "notes": "Tabsaku 1.7.0\n\n- Bayaran patungan: kalau transfer temanmu lebih dari bagiannya, centang teman lain yang ia bayarin dan isi jumlahnya sendiri. Tidak harus satu bagian penuh, misalnya Rp 5.000 untuk Tio.\n- Teman yang baru bayar sebagian kini juga bisa dibayarin untuk sisanya.\n- Pilihan \"bayarin teman lain\" dan \"Catat sisanya jadi Masuk\" diganti satu daftar \"bayarin siapa lagi?\". Uang yang tidak dipakai otomatis dicatat jadi Masuk, dengan kategori yang bisa kamu pilih.\n- Kalau sisa uangnya pas untuk beberapa teman, Tabsaku hanya memberi petunjuk; kamu yang memilih siapa.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.6.1; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
 }
