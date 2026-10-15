@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "1.7.0",
-  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.7.0/tabsaku-1.7.0.apk",
-  "sha256": "5d68519adbc1122075d25f784fbb4fb7989dcaaa8e626846e19d345582add7de",
-  "notes": "Tabsaku 1.7.0\n\n- Bayaran patungan: kalau transfer temanmu lebih dari bagiannya, centang teman lain yang ia bayarin dan isi jumlahnya sendiri. Tidak harus satu bagian penuh, misalnya Rp 5.000 untuk Tio.\n- Teman yang baru bayar sebagian kini juga bisa dibayarin untuk sisanya.\n- Pilihan \"bayarin teman lain\" dan \"Catat sisanya jadi Masuk\" diganti satu daftar \"bayarin siapa lagi?\". Uang yang tidak dipakai otomatis dicatat jadi Masuk, dengan kategori yang bisa kamu pilih.\n- Kalau sisa uangnya pas untuk beberapa teman, Tabsaku hanya memberi petunjuk; kamu yang memilih siapa.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.6.1; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
+  "versionCode": 36,
+  "versionName": "1.8.0",
+  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.8.0/tabsaku-1.8.0.apk",
+  "sha256": "f13d7d6dc340750d8f1fb12f6f38d0421cb54954e8871f86acde47bfe1b810a1",
+  "notes": "Tabsaku 1.8.0\n\n- Patungan bisa dibagi tidak rata. Pilih \"Atur sendiri\", lalu atur bagian tiap teman: \"Sisa\" (dibagi rata dari sisanya), \"Isi jumlah\" (kamu ketik sendiri), atau \"Ikut transfer\".\n- \"Ikut transfer\": bagian teman itu mengikuti uang yang dia transfer. Begitu transfernya dihubungkan, bagianmu yang dihitung Keluar ikut menyesuaikan.\n- Bagianmu boleh dikosongkan; kamu ikut bagi sisa bersama teman yang memilih \"Sisa\".\n- Kalau jumlahnya belum pas, Tabsaku bilang kurang atau lebih berapa sebelum disimpan.\n- \"Ubah patungan\" juga bisa mengatur bagian tiap teman.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.7.0; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
 }
