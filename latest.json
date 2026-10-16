@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "1.10.1",
-  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.10.1/tabsaku-1.10.1.apk",
-  "sha256": "139e2be1220422e4e2b1cdd185d8e7242298953073f3cd36720db3fd665da09f",
-  "notes": "Tabsaku 1.10.1\n\n- Cadangkan data kini berhasil. Di 1.10.0 cadangannya selalu gagal dan meninggalkan file kosong di Download; file kosong itu bukan cadangan, jadi hapus saja dan cadangkan lagi.\n- Kalau cadangan gagal, file kosongnya tidak lagi tertinggal.\n- Kata sandi cadangan bisa dilihat dengan mengetuk \"Lihat\" di kolomnya.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.10.0; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
+  "versionCode": 40,
+  "versionName": "1.11.0",
+  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.11.0/tabsaku-1.11.0.apk",
+  "sha256": "edb0bd51a244bfe30101ee3523ec01b7f8be6f18c31b8d25619c9d8ca1d42c79",
+  "notes": "Tabsaku 1.11.0\n\n- Kebun baru: tanamanmu kini keranjang gantung di dinding, satu layar penuh. Tarik untuk menggoyangnya, pangkas sulurnya, dan hias latar, tanaman, pot, serta gantungannya dengan koleksi daunmu. Tiap bulan menyimpan tampilannya sendiri; lihat semuanya di Semua bulan.\n- Rekening jadi dompet: kartu tiap rekening bertumpuk di saku. Ketuk satu kartu untuk menariknya keluar dan melihat rinciannya; Kembali menyelipkannya lagi.\n- Sembunyikan saldo kini menyembunyikan semua saldo, di Beranda maupun Rekening. Ketuk saldonya dan buka Kunci aplikasi untuk melihatnya sebentar, sampai kamu meninggalkan Tabsaku.\n- Pengaturan pindah ke bar bawah dan jadi tab yang bisa digeser seperti Beranda, Buku, dan Rekening. Kebun dibuka dari tanaman di Beranda.\n- Nama teman di patungan dan nama dari bank kini rapi huruf besarnya, dan angka di kotak Masuk/Keluar tidak lagi terpotong.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.10.1; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
 }
