@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "1.10.0",
-  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.10.0/tabsaku-1.10.0.apk",
-  "sha256": "7662a2a4df603faa1b4621c409e2ad6626da642614127668163929fe26f5818e",
-  "notes": "Tabsaku 1.10.0\n\n- Cadangkan data (Pengaturan → Data): semua transaksi, saldo, kebun, patungan, dan pengaturanmu disimpan jadi satu file, dienkripsi dengan kata sandi yang kamu buat. Simpan di mana saja yang kamu pilih.\n- Pulihkan dari cadangan: pilih file cadangan, ketik kata sandinya, dan semua data di HP ini diganti dengan isinya. Kalau gagal, datamu yang sekarang tidak berubah. Bisa juga langsung dari layar Selamat datang, tanpa melewati langkah awal.\n- Setelah memulihkan, PIN kunci aplikasi ikut dari cadangan. Sandi aplikasi email tidak ikut, jadi Tabsaku memintanya lagi lewat Hubungkan ulang.\n- Kebijakan privasi diperbarui: cadangan hanya dibuat saat kamu memintanya, dan hanya bisa dibuka dengan kata sandimu.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.9.0; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
+  "versionCode": 39,
+  "versionName": "1.10.1",
+  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.10.1/tabsaku-1.10.1.apk",
+  "sha256": "139e2be1220422e4e2b1cdd185d8e7242298953073f3cd36720db3fd665da09f",
+  "notes": "Tabsaku 1.10.1\n\n- Cadangkan data kini berhasil. Di 1.10.0 cadangannya selalu gagal dan meninggalkan file kosong di Download; file kosong itu bukan cadangan, jadi hapus saja dan cadangkan lagi.\n- Kalau cadangan gagal, file kosongnya tidak lagi tertinggal.\n- Kata sandi cadangan bisa dilihat dengan mengetuk \"Lihat\" di kolomnya.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.10.0; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
 }
