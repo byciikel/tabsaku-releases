@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "1.12.0",
-  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.12.0/tabsaku-1.12.0.apk",
-  "sha256": "1985d883ed3fd5b76ec0a03e0b43612d0a067e184cfaf26ceeb8199a933637e0",
-  "notes": "Tabsaku 1.12.0\n\n- Tampilan baru: tiap tab punya warnanya sendiri, judulnya besar, dan isinya tersusun di kartu yang rapi. Tema terang dan gelap sama-sama didukung, termasuk layar awal.\n- Kebun baru: sirih di gantungan makrame dalam ruangan bergaya gambar tangan. Sulurnya makin panjang tiap naik tahap. Tarik tanamannya buat digoyang. Fitur pangkas dihapus.\n- Hias jadi layar sendiri dengan pratinjau langsung. Pilih latar, sirih, pot, dan gantungan. Pilihan kebuka dari skor tertinggimu dan nggak pernah terkunci lagi. Tampilan lama otomatis pindah ke pilihan baru.\n- Layar awal baru: tiga halaman kenalan plus catatan privasi singkat sebelum mulai.\n- Hijau sekarang menandai yang lagi aktif, semua tombol dan tab bergerak saat ditekan, status bar ikut warna layar, dan aplikasi tetap tegak.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.11.0; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
+  "versionCode": 42,
+  "versionName": "1.13.0",
+  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.13.0/tabsaku-1.13.0.apk",
+  "sha256": "4b52c8f7fa847b9747b7c4cb107fdc9af54c3c86262a6cc53f5b9373d058a512",
+  "notes": "Tabsaku 1.13.0\n\n- Cari di Buku: ketuk Cari, ketik nama toko, kategori, rekening, atau nominal. Daftarnya langsung menyempit, totalnya tetap.\n- Kolom isian nggak ketutup keyboard lagi: layarnya geser halus biar yang lagi diketik selalu kelihatan.\n- Tarik tunai sekarang masuk ke dompet tunai. Kalau belum punya, dompetnya kebuka sendiri pas tarik tunai berikutnya (BCA cardless dan BSI dulu).\n- Rincian: pilih bulan sebelumnya nggak bikin bulan sesudahnya hilang lagi.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.12.0; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
 }
