@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "1.13.0",
-  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.13.0/tabsaku-1.13.0.apk",
-  "sha256": "4b52c8f7fa847b9747b7c4cb107fdc9af54c3c86262a6cc53f5b9373d058a512",
-  "notes": "Tabsaku 1.13.0\n\n- Cari di Buku: ketuk Cari, ketik nama toko, kategori, rekening, atau nominal. Daftarnya langsung menyempit, totalnya tetap.\n- Kolom isian nggak ketutup keyboard lagi: layarnya geser halus biar yang lagi diketik selalu kelihatan.\n- Tarik tunai sekarang masuk ke dompet tunai. Kalau belum punya, dompetnya kebuka sendiri pas tarik tunai berikutnya (BCA cardless dan BSI dulu).\n- Rincian: pilih bulan sebelumnya nggak bikin bulan sesudahnya hilang lagi.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.12.0; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
+  "versionCode": 43,
+  "versionName": "1.14.0",
+  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.14.0/tabsaku-1.14.0.apk",
+  "sha256": "5863de50456ac63e8fa7ca2a661062e117678571ebdef5ccac83b171a9abf3b7",
+  "notes": "Tabsaku 1.14.0\n\n- Kabar baru di atas layar: tiap catat, ubah, atau hapus dapat konfirmasi singkat. Hapus transaksi atau email bisa diurungkan selama 6 detik.\n- Catat cepat: abis dicatat, ketuk Lihat buat buka transaksinya. Baris barunya nyala sebentar di daftar.\n- Detail transaksi: Simpan sekarang nanya dulu dan nunjukin yang berubah. Hapus nggak nanya lagi, tinggal Urungkan kalau salah.\n- Hapus rekening nunjukin berapa transaksi yang ikut hilang.\n- Pas Tabsaku cek email, Beranda dan Buku nunjukin progresnya.\n- Gagal buka atau simpan? Pesannya lebih jelas, langsung ada Coba lagi.\n- Cari di Buku: ketik nominal, yang muncul cuma yang nominalnya pas.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.13.0; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
 }
