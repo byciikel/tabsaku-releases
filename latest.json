@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "1.15.0",
-  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.15.0/tabsaku-1.15.0.apk",
-  "sha256": "2c645dd11da41bdc634f116cabec9a074eb3628fccc6a05ced4861627d3fb166",
-  "notes": "Tabsaku 1.15.0\n\n- Dalemannya dirombak biar Tabsaku nanti bisa jalan di iPhone juga. Tampilan, fitur, dan datamu tetap sama.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.14.0; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
+  "versionCode": 45,
+  "versionName": "1.16.0",
+  "apk": "https://github.com/byciikel/tabsaku-releases/releases/download/v1.16.0/tabsaku-1.16.0.apk",
+  "sha256": "8480b81d1e8130fdfd9677b84734b120716ce9640a6a0c422701e226578b3ca2",
+  "notes": "Tabsaku 1.16.0\n\n- Format cadangan baru: file dari Cadangkan sekarang bisa dipulihkan di HP Android maupun iPhone. Cadangan lama tetap bisa dipulihkan di Android.\n- Mau pindah ke iPhone? Bikin cadangan baru dulu abis update, cadangan lama nggak kebaca di iPhone.\n- Abis Pulihkan dari Pengaturan, langsung balik ke Beranda, nggak nyangkut di form kosong lagi.\n\nPerbarui dari Pengaturan → Periksa pembaruan, atau pasang langsung di atas 1.15.0; datamu tetap ada. Cek SHA-256 file APK di bawah sebelum memasang manual.\n"
 }
